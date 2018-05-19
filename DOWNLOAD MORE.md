@@ -1,8 +1,5 @@
 # Repository_Hacking_Books
 
-- [2017 - KALI LINUX  - Revealed 1st edition.pdf](https://hackingcommandcenter.org/) 
+- [2017 - KALI LINUX  - Revealed 1st edition.pdf](https://drive.google.com/file/d/16chyrBOEp3C4TnN6tqJN7GY7bJwFVc_o/view?usp=sharing) 
 
-PRIVATE: Penetration  Testing  with  Kali  Linux.pdf
-
-2013 - KALI LINUX - Pentesting con Kali - 0XWORD.pdf
-2014 - OSCP Official.pdf
+- [2013 - KALI LINUX - Pentesting con Kali - 0XWORD.pdf](https://drive.google.com/file/d/1hLYMNetI7A6bbm6uUCAghdCKfevbKXJH/view?usp=sharing)
