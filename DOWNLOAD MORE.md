@@ -1,6 +1,6 @@
 # Repository_Hacking_Books
 
-- 2017 - KALI LINUX  - Revealed 1st edition.pdf [2017 - KALI LINUX  - Revealed 1st edition.pdf](https://hackingcommandcenter.org/) 
+- [2017 - KALI LINUX  - Revealed 1st edition.pdf](https://hackingcommandcenter.org/) 
 
 PRIVATE: Penetration  Testing  with  Kali  Linux.pdf
 
